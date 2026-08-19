@@ -25,9 +25,9 @@ AUTOSAR diagnostic knowledge without exposing confidential project data.
 
 I also work on smaller private projects related to:
 
-productivity and personal automation
-software tools
-mobile / web applications
-experimental product ideas
+  - productivity and personal automation
+  - software tools
+  - mobile / web applications
+  - experimental product ideas
 
 Source code is currently private while the projects are under development.
